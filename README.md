@@ -8,6 +8,13 @@
 
 # BBS1 Mainz News API
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/as-squirrel/BBS1-Mainz-API)
+![GitHub issues](https://img.shields.io/github/issues/as-squirrel/BBS1-Mainz-API)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/as-squirrel/BBS1-Mainz-API)
+![GitHub stars](https://img.shields.io/github/stars/as-squirrel/BBS1-Mainz-API)
+![GitHub forks](https://img.shields.io/github/forks/as-squirrel/BBS1-Mainz-API)
+
 
 
 ## Introduction
