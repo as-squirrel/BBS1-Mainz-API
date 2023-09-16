@@ -6,7 +6,6 @@
 # This is NOT an official API of BBS1 Mainz School!
 
 
-# BBS1 Mainz News API
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/as-squirrel/BBS1-Mainz-API)
