@@ -24,7 +24,7 @@ app.get('/news', (req, res) => {
             $('section.elementor-section.elementor-element').each(function() {
                 const title = $(this).find('h2.elementor-heading-title.elementor-size-default').text();
 
-                const url = $(this).find('a').attr('href');
+                const url = 'https://www.bbs1-mainz.com/aktuelles/news/' + $(this).find('a').attr('href');
             
                 const date = $(this).find('h5.elementor-heading-title.elementor-size-default').text();
 
